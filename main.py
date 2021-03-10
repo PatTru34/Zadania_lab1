@@ -49,6 +49,17 @@
 # y**=2
 # print(y)
 
+# Zadanie 4
+# import math
+#
+# potega=math.e**10
+# print(potega)
+# p = int(pow(math.log(5 + math.sin(8) ** 2), 1 / 6))
+# print(p)
+#
+# print(math.floor(3.55))
+# print(math.ceil(4.80))
+
 # Zadanie 5
 
 # imie="PATRYK"
@@ -72,3 +83,9 @@
 # print(x)
 
 # Zadanie 9
+# tekst="string"
+# float=2.55
+# szesc=0x23
+# print("Zmienna string: %s"%(tekst))
+# print("Zmienna float: %f" %(float))
+# print("Zmienna szesnastkowa:",hex(szesc))
